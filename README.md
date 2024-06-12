@@ -2,7 +2,7 @@
 
 ## Description
 This is the repository for the ECE228 - Final Project by Team 24 (SP24).\
-It involves data classification with Mudestreda Multimodal Device State Recognition Dataset & Real Industrial Milling Device data containing Time Series and Spectral Images.
+It involves data classification with Mudestreda Multimodal Device State Recognition Dataset of Real Industrial Milling Device data containing Time Series and Image data.
 
 
 ## Installation
